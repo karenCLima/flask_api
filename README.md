@@ -55,4 +55,6 @@ Instance: C:\Users\jod35\Documents\coding\JWT Auth flask\instance
 ```
 
 7. Finalmente rode a aplicação
-```flask run```
+```
+flask run
+```
